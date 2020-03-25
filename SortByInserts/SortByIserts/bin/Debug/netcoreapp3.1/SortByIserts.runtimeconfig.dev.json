@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\egorm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\egorm\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.exe
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.deps.json
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.runtimeconfig.json
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.runtimeconfig.dev.json
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.dll
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\bin\Debug\netcoreapp3.1\SortByIserts.pdb
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\obj\Debug\netcoreapp3.1\SortByIserts.csprojAssemblyReference.cache
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\obj\Debug\netcoreapp3.1\SortByIserts.AssemblyInfoInputs.cache
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\obj\Debug\netcoreapp3.1\SortByIserts.AssemblyInfo.cs
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\obj\Debug\netcoreapp3.1\SortByIserts.dll
+Z:\C#\SortAlgorithms\InjectionSort\SortByIserts\SortByIserts\obj\Debug\netcoreapp3.1\SortByIserts.pdb
